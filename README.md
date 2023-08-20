@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <hi align="center">Hello everyone I am Satyam Roy👋</h1>
 
 <!-- - 🔭 I’m currently working as a Project Engineer in Wipro Limited. -->
-- 💬 Ask me about <strong>C/C++, Data Structure and Algorithms, Javascript, ReactJS</strong>
+- 💬 Ask me about <strong>Java, Data Structure and Algorithms, Javascript, ReactJS</strong>
 - 🌱 I’m currently learning <strong>Full Stack Web Development</strong>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/satyamr0y" target="_blank">Satyam Roy</a>
 
